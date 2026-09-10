@@ -1,7 +1,7 @@
 
 # NOVA AI Platform
 
-NOVA is an AI-powered workflow orchestration and permit automation training project.
+NOVA is a cloud-native platform for AI workflow automation and intelligent business processes.
 
 ## Planned technology stack
 
