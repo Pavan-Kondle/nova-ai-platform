@@ -1,7 +1,8 @@
 
 # NOVA AI Platform
 
-NOVA is a cloud-native platform for AI workflow automation and intelligent business processes.
+
+NOVA is a cloud-native, enterprise AI platform for workflow orchestration, permit automation, and intelligent business processes.
 
 ## Planned technology stack
 
